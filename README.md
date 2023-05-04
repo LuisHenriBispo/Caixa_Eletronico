@@ -19,4 +19,4 @@ A função "erro" deve ser atualizada para incluir as novas opções do menu.
 
 Na opção de depósito, é importante garantir que o valor informado seja maior que zero, evitando operações inválidas.
 
-Por fim, é necessário adicionar uma senha para acessar as funcionalidades do caixa eletrônico, garantindo a segurança das informações do usuário. Caso a senha informada não seja correta, o sistema deve chamar a função atual novamente.
+Por fim, é necessário adicionar uma senha para acessar as funcionalidades do caixa eletrônico (3589), garantindo a segurança das informações do usuário. Caso a senha informada não seja correta, o sistema deve chamar a função atual novamente.
